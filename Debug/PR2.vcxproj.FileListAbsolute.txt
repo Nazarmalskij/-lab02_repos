@@ -1,0 +1,2 @@
+D:\Навчання\PR2\Debug\PR2.exe
+D:\Навчання\PR2\Debug\PR2.pdb
