@@ -8,7 +8,7 @@
 using namespace std;
 int main()
 {
-	double Pi = 4 * atan(1.); // число пі
+	double Pi = 4 * atan(1.); 
 	double m; // вхідний параметр
 	double z1; // результат обчислення 1-го виразу
 	double z2; // результат обчислення 2-го виразу
